@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
-- Live Site URL: [Vercel Live Site](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/pure-js-tip-calculator-0yHR8HLV_)
+- Live Site URL: [GitHub Pages Live Site](https://brandonnhem.github.io/Tip-Calculator/)
 
 ## My process
 
@@ -49,7 +49,7 @@ Hoping to develop more websites with less _hacky_ methods. My main struggle was 
 
 ## Author
 
-- Website - [Brandon Nhem](https://www.your-site.com)
+- GitHub - [Brandon Nhem](https://github.com/brandonnhem/)
 - Frontend Mentor - [@brandonnhem](https://www.frontendmentor.io/profile/brandonnhem)
 
 
