@@ -183,7 +183,7 @@ button {
 }
 
 .btn-reset:disabled {
-    opacity: .4;
+    opacity: .3;
     cursor: not-allowed;
 }
 
