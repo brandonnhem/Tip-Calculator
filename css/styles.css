@@ -209,7 +209,7 @@ button {
     }
     
     .card-bg {
-        margin: 0 25%;
+        margin: 0 15%;
         border-radius: 30px;
         display: grid;
         grid-template-columns: 1fr 1fr;
@@ -237,7 +237,7 @@ button {
 
     .btn-tip-custom {
         padding: 10px;
-        width: 21%;
+        width: 23%;
         font-size: 22px;
     }
 
