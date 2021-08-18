@@ -102,7 +102,7 @@ input:-ms-input-placeholder {
 
 button {
     font-family: 'Space Mono', monospace;
-    width: 75%;
+    width: 95%;
     font-size: 24px;
     background: none repeat scroll 0% 0% #7BA6BB;
 }
@@ -135,7 +135,7 @@ button {
     border-radius: 5px;
     padding: 10px;
     margin: 5px;
-    width: 62%;
+    width: 83%;
 }
 
 .fontpeople {
