@@ -42,6 +42,7 @@ input {
     font-size: 24px;
     margin-bottom: 16px;
     text-align: right;
+    width: 99%;
 }
 
 input:focus {
@@ -101,7 +102,7 @@ input:-ms-input-placeholder {
 
 button {
     font-family: 'Space Mono', monospace;
-    width: 75%;
+    width: 95%;
     font-size: 24px;
     background: none repeat scroll 0% 0% #7BA6BB;
 }
@@ -134,7 +135,7 @@ button {
     border-radius: 5px;
     padding: 10px;
     margin: 5px;
-    width: 62%;
+    width: 83%;
 }
 
 .fontpeople {
@@ -183,7 +184,7 @@ button {
 }
 
 .btn-reset:disabled {
-    opacity: .4;
+    opacity: .3;
     cursor: not-allowed;
 }
 
@@ -203,9 +204,13 @@ button {
     h3 {
         font-size: 20px;
     }
+
+    .header {
+        padding: 5%;
+    }
     
     .card-bg {
-        margin: 0 25%;
+        margin: 0 15%;
         border-radius: 30px;
         display: grid;
         grid-template-columns: 1fr 1fr;
@@ -233,7 +238,7 @@ button {
 
     .btn-tip-custom {
         padding: 10px;
-        width: 23%;
+        width: 24%;
         font-size: 22px;
     }
 
